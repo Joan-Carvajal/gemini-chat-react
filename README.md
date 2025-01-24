@@ -1,8 +1,8 @@
-# React + Vite
+# Gemini ChatBot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+En este ejemplo se usara React para el cosumo de una Api de spring boot en la cual consume a gemini api y se usa el front para manejar la peticion y mostrar al usuario la respuesta.
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/c9db0f74-c0cc-4711-9fba-73b886329201)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+![image](https://github.com/user-attachments/assets/61304e85-da9d-4cc9-9d17-2b49811be671)
